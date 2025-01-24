@@ -1,4 +1,1 @@
-console.log("ckjhu")
-console.log("qwmrg")
-console.log("uoqef")
-console.log("batal")
+console.log("lliaw")
