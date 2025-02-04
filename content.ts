@@ -1,1 +1,1 @@
-console.log("kcwow")
+console.log("proti")
