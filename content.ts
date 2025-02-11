@@ -1,1 +1,1 @@
-console.log("proti")
+console.log("rywtd")
